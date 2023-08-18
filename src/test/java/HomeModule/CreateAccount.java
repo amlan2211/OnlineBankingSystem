@@ -12,7 +12,7 @@ public class CreateAccount
 	@Test
 	public void delete()
 	{
-		System.out.println("account is delete");
+		System.out.println("account is deleted");
 	}
 
 }

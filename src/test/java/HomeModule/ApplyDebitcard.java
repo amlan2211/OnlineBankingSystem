@@ -12,6 +12,8 @@ public void debit()
 @Test
 public void credit()
 {
+	
 	System.out.println("credit card is applied ");
+	
 	}
 }
